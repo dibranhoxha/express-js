@@ -1,0 +1,24 @@
+{
+	"name": "expressjs",
+	"version": "1.0.0",
+	"description": "test",
+	"main": "index.js",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "t",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dibranhoxha/expressJS.git"
+	},
+	"author": "DibiCode",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dibranhoxha/expressJS/issues"
+	},
+	"homepage": "https://github.com/dibranhoxha/expressJS#readme"
+}
