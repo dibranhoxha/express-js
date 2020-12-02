@@ -1,24 +1,23 @@
 {
 	"name": "expressjs",
 	"version": "1.0.0",
-	"description": "test",
+	"description": "",
 	"main": "index.js",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
 	"devDependencies": {},
 	"scripts": {
-		"test": "t",
-		"start": "node index.js"
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dibranhoxha/expressJS.git"
+		"url": "git+https://github.com/dibranhoxha/express-js.git"
 	},
-	"author": "DibiCode",
+	"author": "DibiCOde",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/dibranhoxha/expressJS/issues"
+		"url": "https://github.com/dibranhoxha/express-js/issues"
 	},
-	"homepage": "https://github.com/dibranhoxha/expressJS#readme"
+	"homepage": "https://github.com/dibranhoxha/express-js#readme"
 }
