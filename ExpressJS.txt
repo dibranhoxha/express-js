@@ -38,4 +38,13 @@ BASIC ROUTE HANDLING
 - Express has a router so we can store routes in seperate files and export
 - We can parse incomin data with the Body Parser
 
+EXPRESS MIDDLEWARE
+-------------------
+Middleware functions are functions that have access to the request and response object. Express has built in middleware also comes from 3rd party packages as well as custom middleware
+
+- Execute any code
+- Make changes to the request/response objects
+- End response cycle 
+- Call next middleware in the stack
+
 
