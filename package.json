@@ -6,18 +6,21 @@
 	"dependencies": {
 		"express": "^4.17.1"
 	},
-	"devDependencies": {},
+	"devDependencies": {
+		"nodemon": "^2.0.6"
+	},
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"start": "node index",
+		"dev": "nodemon index"
 	},
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "git+https://github.com/dibranhoxha/expressJS.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": ""
+		"url": "https://github.com/dibranhoxha/expressJS/issues"
 	},
-	"homepage": ""
+	"homepage": "https://github.com/dibranhoxha/expressJS#readme"
 }
