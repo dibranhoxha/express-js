@@ -10,11 +10,14 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"repository": {},
-	"author": "DibiCOde",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/dibranhoxha/express-js/issues"
+		"url": ""
 	},
-	"homepage": "https://github.com/dibranhoxha/express-js#readme"
+	"homepage": ""
 }
